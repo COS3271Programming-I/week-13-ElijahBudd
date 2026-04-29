@@ -1,0 +1,19 @@
+___Bicycle Excercise Planner___
+Enter name: Derek
+Enter bicycle type: Road
+Enter target cadence RPM: 80
+Enter target speed MPH: 14
+Ente target gear(1-21): 6
+
+___Bicycle Profile___
+Derek owns this Road bicycle.
+Currently we are in gear 6 and going 14 MPH.
+The cadence is 80 RPM.
+
+Enter your weight Lbs: 145
+Enter workout duration mins: 40
+
+___Excercise Plan___
+Duration  : 40 minutes
+Intensity : Vigorous
+Est. Calories Burned: 438.0
